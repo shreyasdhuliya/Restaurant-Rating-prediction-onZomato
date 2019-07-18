@@ -14,6 +14,14 @@
  - Jupyther Notebook
  - [PyTorch](https://pytorch.org/get-started/locally/)
  
+ ### Dataset Licence
+ All copyrights for the data is owned by Zomato Media Pvt. Ltd..
+ data is taken from [here](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants) and is only for educational purpose 
+ 
+ ### Acknowledgement
+ Thank you Himanshu Poddar for providing the data set in kaggle for others to use it for educational purpose
+ https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
+ 
  ### introduction:
 The overall rating on Zomato for a restaurant is not the average rating given by the customers. The rating is relative to other restaurants in the same city. Zomato has many algorithms to determine the final rating which can change with performance of other restaurants near by as well. The final ratings all the restaurants of a city is placed on a normal curve. Which makes them relative to each other. .(Zomato rating system) 
 Some known factors are:
