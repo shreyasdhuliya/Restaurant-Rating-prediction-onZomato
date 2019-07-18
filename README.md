@@ -36,17 +36,17 @@ Other factors are:
 -	category of the food served.
 The final rating for the restaurant is in between 1 – 5 with interval of .1. The ratings can be like 1,1.1,1.2,…,4.8,4.9 or 5 for the overall rating. 
 <img src = "images/rest_rating.jpg">
-Figure 1: Three Restaurants and their Ratings on Zomato
-Src: zomato.com/bangalore/
+Figure 1: Three Restaurants and their Ratings on Zomato<br>
+Src: zomato.com/bangalore/<br>
 The rating is color coded between 1-5 with interval .5 
 <img src = "images/labels_rating.png">
-Fig. 2. Color codes for ratings – color code selected based on nearest color.  
+Fig. 2. Color codes for ratings – color code selected based on nearest color.  <br>
 •	What is the Aim of the  Project?
 For this project the ratings are classification problem with ratings falling in 8 different color bins as shown in figure 2. The 8 color bins are ratings with bin size of interval .5 between 1-5. 
 The Aim of this project is to make a Deep Learning Neural Network model which predicts the color bin of the NEW restaurant it will fall in the future. There are 8 classes for prediction.
 <img src = "images/new.png">
-Figure 3: New Restaurant on Zomato
-Src: zomato.com/bangalore/
+Figure 3: New Restaurant on Zomato<br>
+Src: zomato.com/bangalore/<br>
 •	What are some predicating models?
 A linear regression model can be used for predicting the rating. It is the simplest model which has been used to predict rating for wine quality and movie rating that assumes the problem is linearly defined.    
 
