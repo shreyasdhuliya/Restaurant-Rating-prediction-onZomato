@@ -49,12 +49,12 @@ from the same restaurants can be boring which pushes me to look for other restau
 
  
  #### Files 
- `zomato_bangalore_report2.ipynb` - Jupyter notebook containing the systematic process for data exploration, pre-processing, training and predicting 
+ `zomato_bangalore_report2.ipynb` - Jupyter notebook containing the systematic process for data exploration, pre-processing, training and predicting <br>
  
- `train.py` - Python code to train a neural network
- `predict.py` - Python code to process and predict input features for prediction
+ `train.py` - Python code to train a neural network <br>
+ `predict.py` - Python code to process and predict input features for prediction<br>
  `helper.py` - helper fucntions for pre-processing the data
- `visuals.py` - functions to visualize the columns of the restaurnt dataset
+ `visuals.py` - functions to visualize the columns of the restaurnt dataset<br>
  
  #### Fnal Output
  
