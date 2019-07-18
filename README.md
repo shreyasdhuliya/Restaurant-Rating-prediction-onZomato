@@ -27,11 +27,11 @@ Other factors are:
 -	theme of the restaurant - Café, restaurant, pub, bar
 -	category of the food served.
 The final rating for the restaurant is in between 1 – 5 with interval of .1. The ratings can be like 1,1.1,1.2,…,4.8,4.9 or 5 for the overall rating. 
-<img src = "images/rest_rating.png">
+<img src = "images/rest_rating.jpg">
 Figure 1: Three Restaurants and their Ratings on Zomato
 Src: zomato.com/bangalore/
 The rating is color coded between 1-5 with interval .5 
-<img src = "images/labels_rating.jpg">
+<img src = "images/labels_rating.png">
 Fig. 2. Color codes for ratings – color code selected based on nearest color.  
 •	What is the Aim of the  Project?
 For this project the ratings are classification problem with ratings falling in 8 different color bins as shown in figure 2. The 8 color bins are ratings with bin size of interval .5 between 1-5. 
