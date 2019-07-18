@@ -31,7 +31,7 @@ The final rating for the restaurant is in between 1 – 5 with interval of .1. T
 Figure 1: Three Restaurants and their Ratings on Zomato
 Src: zomato.com/bangalore/
 The rating is color coded between 1-5 with interval .5 
-<img src = "images/labels_rating.png">
+<img src = "images/labels_rating.jpg">
 Fig. 2. Color codes for ratings – color code selected based on nearest color.  
 •	What is the Aim of the  Project?
 For this project the ratings are classification problem with ratings falling in 8 different color bins as shown in figure 2. The 8 color bins are ratings with bin size of interval .5 between 1-5. 
