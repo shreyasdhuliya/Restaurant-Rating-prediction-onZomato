@@ -63,8 +63,9 @@ from the same restaurants can be boring which pushes me to look for other restau
  `predict.py` - Python code to process and predict input features for prediction<br>
  `helper.py` - helper fucntions for pre-processing the data<br>
  `visuals.py` - functions to visualize the columns of the restaurnt dataset<br>
- `rates.json` - json file to convert label to category/class
- `report.pdf` - Report explaining the project in detail
+ `rates.json` - json file to convert label to category/class<br>
+ `report.pdf` - Report explaining the project in detail<br>
+ `images`- images used in notbook report
  
  #### Fnal Output
  
