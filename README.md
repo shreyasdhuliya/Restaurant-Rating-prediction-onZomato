@@ -53,7 +53,7 @@ from the same restaurants can be boring which pushes me to look for other restau
  
  `train.py` - Python code to train a neural network <br>
  `predict.py` - Python code to process and predict input features for prediction<br>
- `helper.py` - helper fucntions for pre-processing the data
+ `helper.py` - helper fucntions for pre-processing the data<br>
  `visuals.py` - functions to visualize the columns of the restaurnt dataset<br>
  
  #### Fnal Output
