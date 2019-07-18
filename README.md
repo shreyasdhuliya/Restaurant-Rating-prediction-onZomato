@@ -2,7 +2,7 @@
 # Zomato Rating Bin Prediction For NEW Restaurants in Bengaluru
 ## Training Neural Network for Classification
 ## Udacity machine learning
-#### 1. [Click here to View Report](https://github.com/shreyasdhuliya/Restaurant-Rating-prediction-onZomato) - Zomato_Bangalore_report2.ipynb
+#### 1. [Click here to View Report](https://github.com/shreyasdhuliya/Restaurant-Rating-prediction-onZomato/blob/master/zomato_bangalore_report2.ipynb) - Zomato_Bangalore_report2.ipynb
 
 ### Installation
 1. **Python 3.6**  and libraries
